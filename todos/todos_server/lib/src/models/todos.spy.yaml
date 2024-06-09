@@ -1,0 +1,7 @@
+class: Todos
+table: todos
+fields:
+   title: String
+   content: String
+   created_at: DateTime
+   updated_at: DateTime

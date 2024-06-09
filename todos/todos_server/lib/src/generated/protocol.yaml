@@ -1,0 +1,6 @@
+example:
+  - hello:
+todos:
+  - createTodo:
+  - readAllTodos:
+  - delete:
